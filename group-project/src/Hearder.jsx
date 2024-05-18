@@ -63,5 +63,3 @@ function Login() {
 }
 
 export default Login;
-sdgasdfgsdfhwsdfsfghfhsfdhy    
-gadfgadfgsdfg 
